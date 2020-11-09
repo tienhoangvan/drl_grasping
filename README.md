@@ -1,3 +1,3 @@
 # Deep Reinforcement Learning for Robotic Grasping on Point Clouds
 
-This is a temporary repository that contains milestones, epics and issues related to Master's project *Deep Reinforcement Learning for Robotic Grasping on Point Clouds*.
+**Branch info:** This branch contains a gym environment for pushing task similar to FetchPush, which can be trained with Hindsight Experience Replay. This branch served as an exercise and its development is discontinued.
